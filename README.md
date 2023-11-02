@@ -1,4 +1,4 @@
-<h1 align="center">Configuração de Endereços IPv4 em Máquinas - Prática de Redes de Computadores 💻🔌</h1>
+<h1 align="center">🌐Configuração de Endereços IPv4 em Máquinas - Prática de RC🌐</h1>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
@@ -14,9 +14,9 @@ Nesta prática, mergulharemos no mundo da configuração de endereços IPv4 em m
 Na primeira parte, há um cenário com duas redes distintas. Uma delas é um 'Switch' e a outra é um 'Hub'. Esses dispositivos desempenham papéis diferentes em uma rede.
 
 ### Equipamentos:
-- 4 PCs em cada rede
-- 1 Hub-PT em uma rede
-- 1 Switch 2950-24 (com 24 portas) na outra rede
+- 4 PCs em cada rede 💻
+- 1 Hub-PT em uma rede 📡
+- 1 Switch 2950-24 (com 24 portas) na outra rede 🔄
 
 **O objetivo é entender a diferença entre os comportamentos do Hub e do Switch.** 🤔🔄
 
@@ -25,8 +25,8 @@ Na primeira parte, há um cenário com duas redes distintas. Uma delas é um 'Sw
 Na segunda parte, há uma reconfiguração e a montagem de uma única rede com dois switches. O objetivo é conectar quatro PCs e dois switches para criar uma pequena rede de área local (LAN) usando Ethernet, permitindo que os PCs se comuniquem usando protocolos IP.
 
 ### Equipamentos:
-- 4 PCs (PC0 ao PC3)
-- 2 Switches 2950-24 (switch0 e switch1)
+- 4 PCs (PC0 ao PC3) 💻
+- 2 Switches 2950-24 (switch0 e switch1) 🔄
 
 Conectaremos os PCs aos switches e os switches entre si, criando uma rede unificada. 🌐🔗
 
